@@ -19,7 +19,6 @@ import React, {Component} from 'react';
             </View>
         )
     }
-
 }
 const styles = StyleSheet.create({
     container: {
